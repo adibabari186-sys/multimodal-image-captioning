@@ -39,5 +39,5 @@ Follow these steps to spin up the cyber-workspace environment on your local syst
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/multimodal-image-captioning.git](https://github.com/YOUR_USERNAME/multimodal-image-captioning.git)
+git clone [https://github.com/adibabari186-sys/multimodal-image-captioning.git](https://github.com/adibabari186-sys/multimodal-image-captioning.git)
 cd multimodal-image-captioning
